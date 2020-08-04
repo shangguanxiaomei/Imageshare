@@ -1,2 +1,2 @@
 # Imageshare
-share images for other project.
+share images for other projects.
